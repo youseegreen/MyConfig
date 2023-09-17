@@ -1,0 +1,11 @@
+[user]
+	name = hoge
+	email = fuga@piyo
+[color]
+	ui = auto
+[core]
+	quotepath = off
+	autoCRLF = false
+[alias]
+    st = status
+    glog = log --oneline --decorate --graph --branches --date=short --tags --remotes --pretty=\"format:%C(yellow)%h %C(cyan)%ad %C(green)%an%Creset%x09%s %C(red)%d%Creset\"
